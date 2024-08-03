@@ -1,0 +1,17 @@
+apiVersion: v2
+name: kroki
+version: 0.25.0
+description: Creates diagrams from textual descriptions!
+keywords:
+  - kroki
+  - diagrams
+  - textual
+home: https://github.com/yuzutech/kroki
+sources:
+  - https://github.com/yuzutech/kroki
+maintainers:
+  - name: desaintmartin
+    email: cdesaintmartin@wiremind.fr
+  - name: floreks
+    email: s.florek91@gmail.com
+icon: https://kroki.io/assets/logo.svg
